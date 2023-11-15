@@ -83,7 +83,7 @@ The website should now be running at localhost:3000.
 
 ##  Contributors
 
--  [Isaiah Clifford Opoku](https://github.com/Zainabohlic/DataSensei-DB-Insights)
+-  [Isaiah Clifford Opoku](https://github.com/Clifftech123)
 -  [Sakshi] ()
 -  [Sakshi] ()
 -  [Sakshi] ()
