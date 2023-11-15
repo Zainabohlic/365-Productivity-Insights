@@ -23,3 +23,67 @@ In the realm of Database management and administration, individuals and organiza
 - **Comparing Database Technologies:** Our project is committed to offering valuable insights into the world of database technologies. We'll conduct thorough comparisons between relational (SQL) and NoSQL databases, helping users understand the strengths and weaknesses of each.
 
 - **Hands-On Database Tutorials:** Through our hands-on tutorials, we are dedicated to offering users not just theoretical knowledge but also the valuable practical experience they need to become proficient in database management. We believe that true mastery comes through practice, and our tutorials will provide users with the opportunity to apply their knowledge in real-world scenarios.
+
+
+
+# DataSensei-DBInsights: Your Guide to Problem Solving
+
+Our blog website is designed to help users learn how to solve various problems. You can visit our  [Website](https://mlsa-project-demo-webiste.vercel.app/).
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+- Git
+- Node.js
+- npm
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone <https://github.com/Zainabohlic/DataSensei-DB-Insights>
+
+```
+2. Navigate into the directory of the cloned repository:
+
+```bash
+cd <Website>
+
+```
+
+3. Install the required dependencies:
+
+```bash
+
+npm install
+
+```
+
+Running the Website Locally
+To run the website on your local machine, execute the following command:
+```bash
+npm run dev
+```
+
+The website should now be running at localhost:3000.
+
+##  Tech Stack
+
+-  Next.js
+-  Tailwind CSS
+-  Vercel
+-  GitHub
+-  TypeScript
+-  MDX
+
+
+##  Contributors
+
+-  [Isaiah Clifford Opoku](https://github.com/Zainabohlic/DataSensei-DB-Insights)
+-  [Sakshi] ()
+-  [Sakshi] ()
+-  [Sakshi] ()
