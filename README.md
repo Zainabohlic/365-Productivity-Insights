@@ -81,9 +81,3 @@ The website should now be running at localhost:3000.
 -  MDX
 
 
-##  Contributors
-
--  [Isaiah Clifford Opoku](https://github.com/Clifftech123)
--  [Sakshi] ()
--  [Sakshi] ()
--  [Sakshi] ()
