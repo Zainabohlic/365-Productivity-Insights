@@ -85,5 +85,5 @@ The website should now be running at localhost:3000.
 
 -  [Isaiah Clifford Opoku](https://github.com/Clifftech123)
 -  [Zainab Aslam](https://github.com/Zainabohlic)
--  [Sakshi] ()
+-  [Abdulrafiu Izuafa](https://github.com/Ramseyxlil)
 -  [Sakshi] ()
