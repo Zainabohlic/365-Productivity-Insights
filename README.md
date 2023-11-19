@@ -24,7 +24,8 @@ In the realm of Database management and administration, individuals and organiza
 
 - **Hands-On Database Tutorials:** Through our hands-on tutorials, we are dedicated to offering users not just theoretical knowledge but also the valuable practical experience they need to become proficient in database management. We believe that true mastery comes through practice, and our tutorials will provide users with the opportunity to apply their knowledge in real-world scenarios.
 
-
+## Presentation Deck
+[Click here](https://stdntpartners-my.sharepoint.com/:p:/g/personal/abdulrafiu_izuafa_studentambassadors_com/ESkzywMLMt5KivG2r4mTrSIBFoEqRLGOlOngJ7O2qdspBQ)
 
 # DataSensei-DBInsights: Your Guide to Problem Solving
 
