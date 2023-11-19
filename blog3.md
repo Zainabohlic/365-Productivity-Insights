@@ -24,7 +24,7 @@ These databases are designed to handle unstructured or semi-structured data. The
 
 Now consider an example where data is stored in JSON-like documents:
 
-<Image src="/Website/public/blog3/blog3/image2.png" width="718" height="404" alt="Image" />
+<Image src="/Website/public/blog3/image2.png" width="718" height="404" alt="Image" />
 
 ## Scalability
 
@@ -34,7 +34,7 @@ This is a clear and fundamental difference between SQL and NoSQL. SQL databases 
 
 In the example below, Cassandra scales horizontally by adding more nodes to the cluster.
 
-<Image src="/Website/public/blog3/blog3/image3.png" width="718" height="404" alt="Image" />
+<Image src="/Website/public/blog3/image3.png" width="718" height="404" alt="Image" />
 
 ## Flexibility in Schema Design
 
@@ -46,7 +46,7 @@ NoSQL databases pose a dynamic schema nature. These databases offer unparalleled
 
 Let’s consider an example of MongoDB, where documents are inserted without a schema:
 
-<Image src="/Website/public/blog3/blog3/image4.png" width="718" height="404" alt="Image" />
+<Image src="/Website/public/blog3/image4.png" width="718" height="404" alt="Image" />
 
 ## Transaction Support & Consistency
 
@@ -56,7 +56,7 @@ Transactional consistency is a hallmark of SQL databases. This makes them ideal 
 
 Performing transactions involves a series of SQL statements. For example:
 
-<Image src="/Website/public/blog3/blog3/image5.png" width="718" height="404" alt="Image" />
+<Image src="/Website/public/blog3/image5.png" width="718" height="404" alt="Image" />
 
 While NoSQL databases work fine for eventual consistency and can even be preferable. This may prioritize the performance of the database.
 
