@@ -12,7 +12,7 @@ A relational database uses a structured data storage system that organizes infor
 
 the core of a relational database is a structured organization of data. Relational databases arrange data into tables, unlike flat file systems. These tables have a specific structure defined by a schema, which outlines the data types, relationships, and constraints. This structured approach which RDB follows, allows for efficient data management and retrieval.
 
-2. ### Tables and Records
+2.### Tables and Records
 
    Tables are the primary containers for data in a relational database. Tables represent real world entities. They comprise rows and columns. Each row, also known as a record, represents a unique data entry, while columns define the attributes or fields of the data. For example, in a Student Information database, you might have a "Students" table where each row is a student's record with columns for their name, roll number, address, and contact details.
 
@@ -21,9 +21,10 @@ the core of a relational database is a structured organization of data. Relation
    One of the key features of relational databases is the ability to establish relationships between tables. These relationships are established using primary keys and foreign keys. A primary key is a unique identifier for each record in a table. while a foreign key is a reference to a primary key in another table to establish relationships between tables. These relationships facilitate data integrity and efficient data retrieval from multiple tables.
 
 4. ### SQL (Structured Query Language)
+
    The language used to interact with Relational databases is Structured query language (SQL). USing SQL we can perform various operations on the data, such as querying for specific information, inserting new data, updating existing records, and deleting data. SQL queries are structured and provide a powerful way to interact with and manipulate the data within the database.
 
-<Image src="/Website/public/b1img1.png" width="718" height="404" alt="Image" />
+ <Image src="/Website/public/b1img1.png" width="718" height="404" alt="Image" />
 
 ### Advantages of Relational Databases
 
@@ -32,6 +33,7 @@ the core of a relational database is a structured organization of data. Relation
    Relational databases enforce data integrity. It helps reduce redundancy and ensures that data is stored in a structured manner. Also the risk of inconsistencies and errors in the data is minimized. This makes relational databases highly reliable for critical business applications.
 
 2. ### Flexibility
+
    Relational databases follow the tabular structure hence offer flexibility in data retrieval and manipulation. It's relatively easy to add, modify, or delete records and tables, and changes to the database schema can be made without disrupting existing data.
 
 <Image src="/Website/public/b1img2.webp" width="718" height="404" alt="Image" />
@@ -49,7 +51,9 @@ Relational databases are known for their ACID properties. Which guarantees that 
 ### Common Use Cases for RDBMS
 
 1. ### Business Applications
+
    Relational databases are the backbone of many business applications, including Customer Relationship Management (CRM) systems, where they store customer data, sales records, and order history.
+
 2. ### E-commerce
 
    To ensure a seamless shopping experience, in the world of e-commerce, relational databases are used. Ecommerce websites have to maintain extensive product catalogs with details. Relational databases are used to analyze customer behavior, preferences, and shopping carts.
@@ -59,6 +63,7 @@ Relational databases are known for their ACID properties. Which guarantees that 
    Content Management Systems deal with structured data such as articles, images, user profiles, and metadata. It well suited relational databases for storing this structured data in tables with defined schemas. Therefore, CMS rely on relational databases to enforce integrity, ease in retrieval, and backup management
 
 4. ### Financial Services
+
    The ACID properties are especially crucial in financial applications to ensure the accuracy and reliability of financial data. Relational databases are used by banks and financial institutions to store customer account information, including personal details, account balance, transaction histories, and contact information. Financial institutions rely on relational database to record and manage financial transactions
 
 ### Conclusion
