@@ -22,8 +22,6 @@ In the realm of Database management and administration, individuals and organiza
 
 - **Comparing Database Technologies:** Our project is committed to offering valuable insights into the world of database technologies. We'll conduct thorough comparisons between relational (SQL) and NoSQL databases, helping users understand the strengths and weaknesses of each.
 
-- **Hands-On Database Tutorials:** Through our hands-on tutorials, we are dedicated to offering users not just theoretical knowledge but also the valuable practical experience they need to become proficient in database management. We believe that true mastery comes through practice, and our tutorials will provide users with the opportunity to apply their knowledge in real-world scenarios.
-
 ## Presentation Deck
 [Click here](https://stdntpartners-my.sharepoint.com/:p:/g/personal/abdulrafiu_izuafa_studentambassadors_com/ESkzywMLMt5KivG2r4mTrSIBFoEqRLGOlOngJ7O2qdspBQ)
 
